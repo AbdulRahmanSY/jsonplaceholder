@@ -1,5 +1,5 @@
 {
-  "users": [
+  "users": 
     {
       "id": 1,
       "firstName": "Ahmed Mohamed",
@@ -8,5 +8,5 @@
       "phoneNumber": 2131165336
        "imageProfile":"156513"
     }  
-  ]
+
 }
